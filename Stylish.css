@@ -1,0 +1,342 @@
+.set9{
+    position: relative;
+    left: 200px;
+    bottom:420px;
+    font-weight:bolder;
+}
+.set10{
+    width: 50px;
+    position: relative;
+    bottom: 575px;
+    left: 1050px;
+}
+.set11{
+    color: white;
+    font-size: 45px;
+    position: relative;
+    bottom: 605px;
+    left: 1000px;
+}
+.set12{
+    position: relative;
+    left: 460px;
+    bottom:640px;
+    font-weight:bolder;
+}   
+.seven5{
+    background-color: white;
+    width: 350px;
+    height: 190px;
+    box-shadow: 10px 10px 30px  #ccc;
+    margin-left: 60px;
+    
+
+}
+.seven6{
+    background-color: white;
+    width: 350px;
+    height: 190px;
+    box-shadow: 10px 10px 30px  #ccc;
+    position: relative;
+    bottom: 190px;
+    left: 440px;
+}
+.seven7{
+    background-color: white;
+    width: 350px;
+    height: 190px;
+    box-shadow: 10px 10px 30px  #ccc;
+    position: relative;
+    bottom: 380px;
+    left: 820px;
+}
+.set13{
+    position: relative;
+    top: 30px;
+    left: 140px;
+}
+.Colors{
+    text-align: center;
+    margin-top: 50px;
+    color: royalblue;
+}
+.seven8{
+    background-color: white;
+    width: 350px;
+    height: 190px;
+    box-shadow: 10px 10px 30px  #ccc;
+    position: relative;
+    bottom:350px;
+    left: 60px;
+}
+.seven9{
+    background-color: white;
+    width: 350px;
+    height: 190px;
+    box-shadow: 10px 10px 30px  #ccc;
+    position: relative;
+    bottom: 540px;
+    left: 440px;   
+}
+.seven10{
+    background-color: white;
+    width: 350px;
+    height: 190px;
+    box-shadow: 10px 10px 30px  #ccc;
+    position: relative;
+    bottom: 730px;
+    left: 820px;   
+}
+h2{
+    color: royalblue;
+    position: relative;
+    bottom: 650px; 
+    left:60px;
+    font-size: 25px;
+    font-family: serif; 
+}
+.eight{
+    background-color: gainsboro;
+    position: relative;
+    bottom: 620px;
+    left: 60px;
+    width: 350px;
+    height: 80px;
+    border-radius: 2px;
+}
+.eight1{
+    background-color: gainsboro;
+    position: relative;
+    bottom: 700px;
+    left: 440px;
+    width: 350px;
+    height: 80px;
+    border-radius: 2px;
+}
+.eight2{
+    background-color: gainsboro;
+    position: relative;
+    bottom: 680px;
+    left: 60px;
+    width: 350px;
+    height: 80px;
+    border-radius: 2px;
+}
+.eight3{
+    background-color: gainsboro;
+    position: relative;
+    bottom: 760px;
+    left: 440px;
+    width: 350px;
+    height: 80px;
+    border-radius: 2px;
+}
+.Hun{
+    width: 35px;
+   position: relative;
+   bottom: -20px;
+   left: 20px;
+}
+.control{
+    color: royalblue;
+    position: relative;
+    left: 80px;
+    bottom: 20px;
+    font-family:serif ;
+    font-size: 17px;
+}
+.Ter{
+   position: relative;
+   bottom: 1040px;
+   left: 840px;
+
+   
+}
+.Para{
+    color: gray;
+    text-align: justify;
+    line-height: 21px;
+    position: relative;
+    bottom: 1025px;
+    left: 830px;
+    border: royalblue solid 0.5px;
+    width: 300px;
+    border-radius: 10px;
+}
+.eight4{
+    position: relative;
+    bottom: 880px;
+    text-align: center;
+}
+.eight5{
+    width: 220px;
+    position: relative;
+    bottom: 850px;
+    margin-left: 60px;
+}
+.eight6{
+    width: 220px;
+    position: relative;
+    bottom: 850px;
+}
+.eight7{
+    width: 220px;
+    position: relative;
+    bottom: 850px;
+}
+.eight8{
+    width: 220px;
+    position: relative;
+    bottom: 850px;
+}
+.eight9{
+    width: 220px;
+    position: relative;
+    bottom: 850px;
+}
+.Nine{
+    width: 100%;
+    height: 420px;
+    background-color: rgb(36, 39, 46);
+    position: relative;
+    bottom: 670px;
+}
+.Coloring{
+    color: white;
+    font-family: serif;
+    position: relative;
+    top: 100px;
+    left: 450px;
+}
+.Coloring1{
+    color: white;
+    font-family: serif;
+    position: relative;
+    top: 60px;
+    left: 820px;
+}
+.Coloring2{
+    text-align: justify;
+    color: lightgray;
+    position: relative;
+    top: 45px;
+    left: 60px;    
+    font-size: 15px;
+}
+.Icon1{
+    width: 15px;
+    position: relative;
+    top: 35px;
+    right: 80px;
+}
+.para2{
+    color: lightgray;
+    font-family: serif;
+    position: relative;
+    right: 450px;
+    bottom: 10px;
+
+}
+.Icon2{
+    width: 15px;
+    position: relative;
+    bottom: 20px;
+    left: 80px;
+}
+.para3{
+    color: lightgray;
+    font-family: serif;
+    position: relative;
+    right: 437px;
+    bottom: 65px;
+}
+.Icon3{
+    width: 15px;
+    position: relative;
+    bottom: 75px;
+    left: 78px;
+}
+.para4{
+    color: lightgray;
+    font-family: serif;
+    position: relative;
+    right: 425px;
+    bottom: 120px;
+}
+.Icon4{
+    width: 15px;
+    position: relative;
+    bottom: 130px;
+    left: 80px;
+}
+.para5{
+    color: lightgray;
+    font-family: serif;
+    position: relative;
+    right: 425px;
+    bottom: 175px;
+}
+.Icon5{
+    width: 15px;
+    position: relative;
+    bottom: 183px;
+    left: 80px;
+}
+.para6{
+    color: lightgray;
+    font-family: serif;
+    position: relative;
+    right: 425px;
+    bottom: 230px;
+}
+.Icon6{
+    width: 15px;
+    position: relative;
+    bottom: 410px;
+    left: 280px;
+}
+.para7{
+    color: lightgray;
+    font-family: serif;
+    position: relative;
+    right: 225px;
+    bottom: 455px;
+}
+.Contact1{
+    width: 35px;
+    position: relative;
+    bottom: 20px;
+    left: 820px;
+}
+.Contact2{
+    width: 35px;
+    position: relative;
+    bottom: 20px;
+    left: 820px;
+}
+.Contact3{
+    width: 35px;
+    position: relative;
+    bottom: 20px;
+    left: 820px;
+}
+.Contact4{
+    width: 35px;
+    position: relative;
+    bottom: 20px;
+    left: 820px;
+}
+.ten{
+    background-color: royalblue;
+    width: 100%;
+    height: 50px;
+    position: relative;
+    bottom: 690px;
+    
+}
+.done{
+    position: relative;
+    top: 8px;
+    right: 450px;
+    font-size: small;
+}
